@@ -1,0 +1,1 @@
+# AWS_ami_deletion_from_JSON_dump
